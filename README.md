@@ -1,4 +1,4 @@
-# practicas
+# practicas realizar un slider sencillo
 
 ## Project setup
 ```
